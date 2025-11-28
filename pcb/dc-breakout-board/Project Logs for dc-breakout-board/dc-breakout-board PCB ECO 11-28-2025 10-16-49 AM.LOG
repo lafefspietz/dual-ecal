@@ -1,0 +1,68 @@
+Added Component: Designator=J1(TSW-102-07-G-S-iceberg)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-102-07-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J2(TSW-102-07-G-S-iceberg)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-102-07-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J3(SAMTEC_TSW-110-07-G-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-110-07-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(Single PC Pin)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "575-2617001340000"; VariantName = "[No Variations]"
+Added Component: Designator=J5(Single PC Pin)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "575-2617001340000"; VariantName = "[No Variations]"
+Added Component: Designator=J6(TSW-102-07-G-S-iceberg)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-102-07-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J7(TSW-102-07-G-S-iceberg)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-102-07-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J3-02
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J3-03
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=J3-08
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=J3-09
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ3_01 Pin=J3-01
+Added Pin To Net: NetName=NetJ3_01 Pin=J4-1
+Added Net: Name=NetJ3_01
+Added Pin To Net: NetName=NetJ3_04 Pin=J3-04
+Added Pin To Net: NetName=NetJ3_04 Pin=J6-2
+Added Net: Name=NetJ3_04
+Added Pin To Net: NetName=NetJ3_05 Pin=J3-05
+Added Pin To Net: NetName=NetJ3_05 Pin=J6-1
+Added Net: Name=NetJ3_05
+Added Pin To Net: NetName=NetJ3_06 Pin=J3-06
+Added Pin To Net: NetName=NetJ3_06 Pin=J7-2
+Added Net: Name=NetJ3_06
+Added Pin To Net: NetName=NetJ3_07 Pin=J3-07
+Added Pin To Net: NetName=NetJ3_07 Pin=J7-1
+Added Net: Name=NetJ3_07
+Added Pin To Net: NetName=NetJ3_10 Pin=J3-10
+Added Pin To Net: NetName=NetJ3_10 Pin=J5-1
+Added Net: Name=NetJ3_10
+Added Class: Name=dc-breakout-board

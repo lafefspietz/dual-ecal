@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=dual-ecal-RF-board Member=J7
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U3-14
+Added Net: Name=NetR7_2
